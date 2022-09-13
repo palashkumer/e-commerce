@@ -13,3 +13,50 @@
 .price {
     color: #FF136F;
 }
+
+
+.cat1, .cat2, .cat3{
+
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.cat1{
+    background-color: aquamarine;
+}
+.cat2{
+    background-color: orange;
+}
+.cat3{
+    background-color: orchid;
+}
+
+.categories h1{
+    color: rgb(36, 86, 119);
+}
+
+.categories img {
+    width: 100px;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray ;
+}
+.card-footer{
+
+    background-color: white;
+    border-top: none;
+}
+
+#contactUs {
+    height: 300px;
+}
+
+#contactUs h6 {
+   color: gray;
+}
+footer {
+    text-align: center;
+}
